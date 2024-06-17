@@ -1,5 +1,5 @@
 
-[![MasterHead](https://shreyasighoshportfolio.netlify.app/)
+[![MasterHead](https://shreyasighoshportfolio.netlify.app/)]
 
 <h1 align="center">Hi 👋, I'm Shreyasi Ghosh</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
