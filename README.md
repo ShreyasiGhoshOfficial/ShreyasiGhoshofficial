@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Gen AI**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/shreyasighoshofficial](https://linktr.ee/shreyasighoshofficial)
+- 👨‍💻 All of my projects are available at [https://github.com/ShreyasiGhoshOfficial?tab=repositories]
 
 - 💬 Ask me about **React,MERN**
 
