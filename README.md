@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ShreyasiGhoshOfficial&color=blue&style=for-the-badge)
-![Shreyasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyasiGhoshOfficial&show_icons=true&theme=dark)
+
 
 
 <h1 align="center">Hi 👋, I'm Shreyasi Ghosh</h1>
